@@ -1,5 +1,3 @@
-console.log("SquarerootinGame Component Loaded");
-
 import { useState, useEffect, useRef } from 'react';
 import { Button } from "./ui/button";
 import { Input } from "./ui/input";
