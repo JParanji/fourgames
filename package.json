@@ -2,8 +2,11 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://JParanji.github.io/fourgames",
+  "homepage": ".",
   "dependencies": {
+    "@radix-ui/react-label": "^2.1.2",
+    "@radix-ui/react-radio-group": "^1.2.3",
+    "@radix-ui/react-select": "^2.1.6",
     "canvas-confetti": "^1.9.3",
     "cra-template": "1.2.0",
     "react": "^19.0.0",
